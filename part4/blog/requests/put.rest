@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/blogs/62daf68fe30316d2510b1a20/
+Content-Type: application/json
+
+{   
+    "title": "Changed McChange",
+    "author": "Someone Else",
+    "url": "www.notmywebsite.dk",
+    "likes": 10
+}
